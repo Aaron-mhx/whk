@@ -7,13 +7,13 @@ title: 鸿轩の站
 subtitle: 'miaohongxuanの站'
 description: ''
 keywords:
-author: John Doe
+author: Miao Hongxuan
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://blog.on-high.top/blog/
+url: http://blog.on-high.top/whk/
 # permalink: :year:month:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,11 +102,11 @@ theme: shoka
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-# deploy:
-#   type: git
-#   repo: https://github.com/Aaron-mhx/blog
-#   # example, https://github.com/hexojs/hexojs.github.io
-#   branch: gh-pages
+deploy:
+  type: git
+  repo: https://github.com/Aaron-mhx/whk
+  # example, https://github.com/hexojs/hexojs.github.io
+  branch: gh-pages
 
 markdown:
   render: # 渲染器设置

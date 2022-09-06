@@ -8,6 +8,7 @@ categories:
   - 英语
   - 语法
 quiz: true
+abbrlink: 31fb8d7a
 date: 2022-08-05 12:38:40
 ---
 # 作代词

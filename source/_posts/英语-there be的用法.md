@@ -8,6 +8,7 @@ categories:
   - 英语
   - 语法
 quiz: true
+abbrlink: 76ca6543
 date: 2022-08-05 12:38:40
 ---
 # 用法
