@@ -1,0 +1,67 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "鸿轩の站 • All posts by \"数学\" category",
+    "description": "",
+    "home_page_url": "http://blog.on-high.top/whk",
+    "items": [
+        {
+            "id": "http://blog.on-high.top/whk/posts/9dc177a0/",
+            "url": "http://blog.on-high.top/whk/posts/9dc177a0/",
+            "title": "数学-四边形概述",
+            "date_published": "2022-08-04T04:38:43.000Z",
+            "content_html": "<p><img data-src=\"https://cdn.jsdelivr.net/gh/Aaron-mhx/cdn@master/ivmsg2022-08-27-18-52-43-%E5%9B%BE%E7%89%871.svg\" alt=\"\" /></p>\n",
+            "tags": [
+                "文化课",
+                "八年级下",
+                "数学",
+                "几何",
+                "四边形"
+            ]
+        },
+        {
+            "id": "http://blog.on-high.top/whk/posts/6c846164/",
+            "url": "http://blog.on-high.top/whk/posts/6c846164/",
+            "title": "数学-平行四边形判定",
+            "date_published": "2022-08-04T04:38:43.000Z",
+            "content_html": "<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuZ2VvZ2VicmEub3JnL2NhbGN1bGF0b3Ivd3U3YXduZ3E=\">文中图形在线演示链接：https://www.geogebra.org/calculator/wu7awngq</span></p>\n<p><img data-src=\"https://cdn.jsdelivr.net/gh/Aaron-mhx/cdn@master/ivmsg2022-08-27-18-52-43-%E5%9B%BE%E7%89%871.svg\" alt=\"\" /></p>\n<p><img data-src=\"https://cdn.jsdelivr.net/gh/Aaron-mhx/cdn@master/ivmsg2022-09-02-19-25-56-20220902192555.png\" alt=\"\" /></p>\n<ul>\n<li>定义法：两对边分别平行的四边形是平行四边形</li>\n<li>一组对边平行且相等的四边形是平行四边形</li>\n<li>两组对边分别相等的四边形是平行四边形</li>\n<li>两组对角分别相等的四边形是平行四边形</li>\n<li>对角线互相平分的四边形是平行四边形</li>\n</ul>\n",
+            "tags": [
+                "文化课",
+                "八年级下",
+                "数学",
+                "几何",
+                "四边形",
+                "平行四边形"
+            ]
+        },
+        {
+            "id": "http://blog.on-high.top/whk/posts/b8f7cfed/",
+            "url": "http://blog.on-high.top/whk/posts/b8f7cfed/",
+            "title": "数学-平行四边形性质",
+            "date_published": "2022-08-04T04:38:43.000Z",
+            "content_html": "<p><span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuZ2VvZ2VicmEub3JnL2NhbGN1bGF0b3Ivd3U3YXduZ3E=\">文中图形在线演示链接：https://www.geogebra.org/calculator/wu7awngq</span></p>\n<p><img data-src=\"https://cdn.jsdelivr.net/gh/Aaron-mhx/cdn@master/ivmsg2022-08-27-18-52-43-%E5%9B%BE%E7%89%871.svg\" alt=\"\" /></p>\n<p><img data-src=\"https://cdn.jsdelivr.net/gh/Aaron-mhx/cdn@master/ivmsg2022-09-02-19-25-56-20220902192555.png\" alt=\"\" /></p>\n<ul>\n<li>对<strong>边</strong>平行且相等</li>\n<li>对<strong>角</strong>相等，邻角互补</li>\n<li><strong>对角线</strong>相互平分：OA=OC OB=OD</li>\n<li>是中心对称图形 对称中心是对角线交点</li>\n</ul>\n<blockquote>\n<h3 id=\"补充\"><a class=\"anchor\" href=\"#补充\">#</a> 补充</h3>\n<ul>\n<li>\n<p>联结四边上任意一点与对称中心并延长，与另一边交于一点。则这两点关于对称中心对称。（点 E 与点 F 关于点 O 对称）</p>\n</li>\n<li>\n<p>经过对称中心的任意一条直线把平行四边形分成周长与面积相等的两部分。</p>\n</li>\n</ul>\n</blockquote>\n",
+            "tags": [
+                "文化课",
+                "八年级下",
+                "数学",
+                "几何",
+                "四边形",
+                "平行四边形"
+            ]
+        },
+        {
+            "id": "http://blog.on-high.top/whk/posts/e9b06c04/",
+            "url": "http://blog.on-high.top/whk/posts/e9b06c04/",
+            "title": "数学-平行四边形概念",
+            "date_published": "2022-08-04T04:38:43.000Z",
+            "content_html": "<p><img data-src=\"https://cdn.jsdelivr.net/gh/Aaron-mhx/cdn@master/ivmsg2022-08-27-18-52-43-%E5%9B%BE%E7%89%871.svg\" alt=\"\" /></p>\n<h1 id=\"定义\"><a class=\"anchor\" href=\"#定义\">#</a> 定义</h1>\n<p><img data-src=\"https://cdn.jsdelivr.net/gh/Aaron-mhx/cdn@master/ivmsg2022-08-27-20-30-22-20220827203020.png\" alt=\"\" /></p>\n<ul>\n<li>两组对边平行的四边形叫做平行四边形，记作 “▱ABCD”</li>\n<li>若 AB//CD AD//BC 则四边形 ABCD 是平行四边形</li>\n</ul>\n<h1 id=\"书写方式\"><a class=\"anchor\" href=\"#书写方式\">#</a> 书写方式</h1>\n<ul>\n<li>按照一定顺序写，即从某一点开始顺时针或逆时针写。</li>\n</ul>\n<h1 id=\"相关概念\"><a class=\"anchor\" href=\"#相关概念\">#</a> 相关概念</h1>\n<ul>\n<li>边\n<ul>\n<li>邻边</li>\n<li>对边</li>\n</ul>\n</li>\n<li>角\n<ul>\n<li>邻角</li>\n<li>对角</li>\n</ul>\n</li>\n<li>对角线：AC、BD</li>\n<li>对称中心：E</li>\n</ul>\n",
+            "tags": [
+                "文化课",
+                "八年级下",
+                "数学",
+                "几何",
+                "四边形",
+                "平行四边形"
+            ]
+        }
+    ]
+}

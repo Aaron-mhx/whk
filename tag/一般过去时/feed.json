@@ -1,0 +1,45 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "鸿轩の站 • All posts by \"一般过去时\" tag",
+    "description": "",
+    "home_page_url": "http://blog.on-high.top/whk",
+    "items": [
+        {
+            "id": "http://blog.on-high.top/whk/posts/edae5799/",
+            "url": "http://blog.on-high.top/whk/posts/edae5799/",
+            "title": "英语-现在完成时",
+            "date_published": "2022-08-05T04:38:42.000Z",
+            "content_html": "<details class=\"warning\"><summary>警告</summary><div>\n<p>本文是作者自行根据题目经验总结得出的。可能与事实有所出入。</p>\n<p>本文仅针对较易混淆的一种现在完成时用法和一种一般过去时用法展开。具体关于两种时态的内容请查看本站其他文章。</p>\n</div></details>\n<p>现在完成时表示 “动作发生在过去，对现在有影响”，一般过去时表示 “过去发生的动作” 间比较容易混淆。</p>\n<p>现在完成时强调动作对现在有影响而一般过去时强调那个动作的发生。</p>\n<p>比如：</p>\n<p>I opened the door （我过去打开了门）<br />\nI have opened the door （我过去打开了门，并且<mark>门现在是开的</mark>）</p>\n",
+            "tags": [
+                "文化课",
+                "英语",
+                "语法",
+                "时态",
+                "标志词",
+                "一般时态",
+                "现在时态",
+                "现在完成时",
+                "完成时态",
+                "一般过去时",
+                "过去时态"
+            ]
+        },
+        {
+            "id": "http://blog.on-high.top/whk/posts/1c6be439/",
+            "url": "http://blog.on-high.top/whk/posts/1c6be439/",
+            "title": "英语-一般过去时",
+            "date_published": "2022-08-05T04:38:40.000Z",
+            "content_html": "<h1 id=\"标志词\"><a class=\"anchor\" href=\"#标志词\">#</a> 标志词</h1>\n<p>yesterday、last、ago、just now、in 2022、in the past</p>\n<h1 id=\"构成\"><a class=\"anchor\" href=\"#构成\">#</a> 构成</h1>\n<p>did</p>\n<h1 id=\"含义\"><a class=\"anchor\" href=\"#含义\">#</a> 含义</h1>\n<ol>\n<li>过去的状态</li>\n<li>过去以结束的动作</li>\n</ol>\n<h1 id=\"特殊用法\"><a class=\"anchor\" href=\"#特殊用法\">#</a> 特殊用法</h1>\n<ul>\n<li>used to 也可以表示一般过去式\n<ul>\n<li>used to do 过去常常做某事</li>\n<li>be used to do 用来做某事</li>\n<li>be used to doing 习惯于做某事</li>\n</ul>\n</li>\n<li>两个动作都发生在过去，同时发生，长的用过进，短的用一过</li>\n<li>连接这两个动作可以用 when 和 while</li>\n</ul>\n<p>when：长动作 \\ 短动作 while：长动作</p>\n<p>当他进来的时候，我在读书。</p>\n<p>I was reading when he came in.</p>\n<p>While I was reading, he came in.</p>\n<h1 id=\"过去式变化情况\"><a class=\"anchor\" href=\"#过去式变化情况\">#</a> 过去式变化情况</h1>\n<table>\n<thead>\n<tr>\n<th>情况</th>\n<th>方法</th>\n<th>示例</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>一般情况</td>\n<td>+ed</td>\n<td>work——worked look——looked</td>\n</tr>\n<tr>\n<td>以不发音的 e (哑 e) 结尾</td>\n<td>+d</td>\n<td>live——lived hope——hoped like——liked</td>\n</tr>\n<tr>\n<td>以辅音字母 + y 结尾</td>\n<td>把 y 变 i+ed</td>\n<td>study——studied carry——carried</td>\n</tr>\n<tr>\n<td>以重读闭音节结尾且末尾只有一个辅音字母 (重读辅元辅)</td>\n<td>双写尾字母 + ed</td>\n<td>stop——stopped plan——planned</td>\n</tr>\n<tr>\n<td>以 ic 结尾</td>\n<td>+ked</td>\n<td>picnic——picnicked traffic——trafficked</td>\n</tr>\n<tr>\n<td>特殊情况</td>\n<td>不规则变化</td>\n<td>are——were is/am——was do——did eat——ate go——went 等等</td>\n</tr>\n</tbody>\n</table>\n<h2 id=\"易错动词不规则变化\"><a class=\"anchor\" href=\"#易错动词不规则变化\">#</a> 易错动词不规则变化</h2>\n<ol>\n<li>fly-flew-flown</li>\n<li>admit-admitted-admitted</li>\n<li>ride-rode-ridden</li>\n<li>prefer-preferred-preferred</li>\n<li>picnic-picnicked-picnicked</li>\n<li>panic-panicked-panicked</li>\n<li>refer-referred-referred</li>\n<li>tarvel-travel(l)ed-travel(l)ed</li>\n<li>hang-hanged-hanged (吊死)</li>\n<li>hang-hung-hung (悬挂)</li>\n<li>lie-lied-lied (撒谎)</li>\n<li>lie-lay-lain (躺下)</li>\n<li>lay-laid-laid (下蛋；放置)</li>\n</ol>\n",
+            "tags": [
+                "文化课",
+                "英语",
+                "语法",
+                "时态",
+                "标志词",
+                "一般时态",
+                "一般过去时",
+                "过去时态"
+            ]
+        }
+    ]
+}
